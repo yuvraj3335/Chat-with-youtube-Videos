@@ -2,7 +2,8 @@
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
-## What's next? How do I make an app with this?
+## What's next? How do I make an app with this?![working walkthrough](https://github.com/user-attachments/assets/6014b729-6338-4629-839b-19fc1f9ec675)
+
 
 We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
 
