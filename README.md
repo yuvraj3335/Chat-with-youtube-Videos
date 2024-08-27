@@ -1,5 +1,5 @@
 ![working walkthrough](https://github.com/user-attachments/assets/6014b729-6338-4629-839b-19fc1f9ec675)
-![Screenshot 2024-08-22 005624](https://github.com/user-attachments/assets/23685645-415c-482a-b49d-3307fd478a72)
+
 
 # Create T3 App
 
