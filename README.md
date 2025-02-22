@@ -1,32 +1,34 @@
 ![working walkthrough](https://github.com/user-attachments/assets/6014b729-6338-4629-839b-19fc1f9ec675)
 
 
-# Create T3 App
+The "Chat with YouTube Videos" project is an innovative application that enables users to interact dynamically with YouTube content. By integrating advanced technologies, this tool allows users to input a YouTube video URL and engage in a conversational experience, asking questions and receiving insightful responses based on the video's content.
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+Key Features:
 
-## What's next? How do I make an app with this?
+    Interactive Q&A: Pose questions about specific YouTube videos and receive detailed answers derived from the video's transcript.
 
+    Real-Time Engagement: Engage with video content without the need to watch the entire video, making information retrieval efficient and user-friendly.
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+    Advanced Technology Integration: Utilizes state-of-the-art models and frameworks to process video content and generate accurate responses.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+Installation and Usage:
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+    Clone the Repository:
 
-## Learn More
+git clone https://github.com/yuvraj3335/Chat-with-youtube-Videos.git
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+Navigate to the Project Directory:
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+cd Chat-with-youtube-Videos
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+Install Dependencies:
 
-## How do I deploy this?
+npm install
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+Run the Application:
+
+npm run dev
+
+Access the Application:
+
+Open your browser and navigate to http://localhost:3000 to start interacting with YouTube videos.
